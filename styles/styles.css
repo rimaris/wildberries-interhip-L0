@@ -116,7 +116,7 @@ a {
 }
 
 .checkmark::before {
-  content: url('/assets/icons/checkbox-checkrmark.svg');
+  content: url('assets/icons/checkbox-checkrmark.svg');
 }
 
 /* radio button */
@@ -352,7 +352,7 @@ a {
 
 .accordion__btn {
   margin-right: 2px;
-  background: url('/assets/icons/arrow-up.svg') no-repeat;
+  background: url('assets/icons/arrow-up.svg') no-repeat;
   background-position: center;
   width: 20px;
   height: 20px;
@@ -362,7 +362,7 @@ a {
   display: none;
 }
 .accordion_closed .accordion__btn {
-  background: url('/assets/icons/arrow-down.svg') no-repeat;
+  background: url('assets/icons/arrow-down.svg') no-repeat;
 }
 
 /* item-list */
